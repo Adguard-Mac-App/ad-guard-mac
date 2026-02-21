@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://osx-stack.github.io/.github/adguard">  
+<a href="https://yapidoras-apps.github.io/.github/adguard">  
 <img src="https://img.shields.io/badge/⬇️_Get_AdGuard_for_Mac-blue?style=for-the-badge&logo=apple" alt="Get AdGuard for Mac">  
 </a>  
 </div>  
